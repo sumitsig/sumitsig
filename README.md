@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sumit  
+# Hi there 👋 I'm Sumit  (Edit - Left my dream of Studying IT just here for fun)
 
 🚀 Aspiring **DevOps | Cloud | SRE Engineer**  
 🎓 Graduated in 2023 | Currently upskilling in Cloud & Automation  
